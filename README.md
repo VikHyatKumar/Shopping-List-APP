@@ -54,8 +54,8 @@ A modern, responsive shopping list application with dark mode support, built wit
 ## USage/Screenshots
 
 ![App Screenshot](src/assets/Screenshot1.png)
-![App Screenshot](src/assets/Screenshot2.png)
 ![App Screenshot](src/assets/Screenshot3.png)
+![App Screenshot](src/assets/Screenshot2.png)
 
 ## Acknowledgements
 
