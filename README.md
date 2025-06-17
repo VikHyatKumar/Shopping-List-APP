@@ -2,7 +2,7 @@
 
 A modern, responsive shopping list application with dark mode support, built with React and Tailwind CSS.
 
-## Features 
+## Features ✨
 
 • 🛒 Add, edit, and delete shopping items
 
@@ -19,7 +19,7 @@ A modern, responsive shopping list application with dark mode support, built wit
 • 📅 Item creation timestamps
 
 
-## Technologies Used
+## Technologies Used 🛠️
 
 • React
 
@@ -28,7 +28,7 @@ A modern, responsive shopping list application with dark mode support, built wit
 • Lucide React (for icons)
 
 
-## Installation 
+## Installation & Setup 🚀
 
 1. **Clone the repository:**
    ```bash
