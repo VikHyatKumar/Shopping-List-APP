@@ -16,7 +16,7 @@ A modern, responsive shopping list application with dark mode support, built wit
 
 • ✅ Form validation
 
-• 📅 Item creation timestamps
+• 📅 Item creation timestamps and Persistent Storage
 
 
 ## Technologies Used 🛠️
